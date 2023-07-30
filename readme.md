@@ -7,10 +7,10 @@ The util.py has hepler function needed by app.py for prediction and text preproc
 While deploying remove the helpers folder as we already have .pkl files
 
 ############ Run the whole application using
-pip install -r requirements.txt --user
-cd helpers folder
-python gen1.py
-python gen2.py
-Move all the .pkl and .csv file outside helpers folder
-cd ..
-python  app.py
+pip install -r requirements.txt --user <br>
+cd helpers folder<br>
+python gen1.py<br>
+python gen2.py<br>
+Move all the .pkl and .csv file outside helpers folder<br>
+cd ..<br>
+python  app.py<br>
