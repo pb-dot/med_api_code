@@ -8,4 +8,9 @@ While deploying remove the helpers folder as we already have .pkl files
 
 ############ Run the whole application using
 pip install -r requirements.txt --user
-python run app.py
+cd helpers folder
+python gen1.py
+python gen2.py
+Move all the .pkl and .csv file outside helpers folder
+cd ..
+python  app.py
