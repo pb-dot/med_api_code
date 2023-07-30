@@ -1,10 +1,10 @@
-flask
+streamlit
 joblib
 numpy
 pandas
 nltk
 textblob
 scikit-learn
-spacy
-en_core_web_sm
+spacy>=3.0,<4.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz
 sentence-transformers
