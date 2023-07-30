@@ -1,0 +1,42 @@
+index,feature,target
+0,spinning movements  vomiting  nausea  headache,(vertigo) Paroymsal  Positional Vertigo
+1,patches in throat  high fever  extra marital contacts  muscle wasting,AIDS
+2,scurring  blackheads  pus filled pimples  skin rash,Acne
+3,yellowish skin  abdominal pain  vomiting  swelling of stomach,Alcoholic hepatitis
+4,shivering  watering from eyes  chills  continuous sneezing,Allergy
+5,movement stiffness  stiff neck  swelling joints  muscle weakness,Arthritis
+6,breathlessness  cough  fatigue  high fever,Bronchial Asthma
+7,neck pain  weakness in limbs  back pain  dizziness,Cervical spondylosis
+8,itching  fatigue  lethargy  skin rash,Chicken pox
+9,itching  yellowish skin  vomiting  nausea,Chronic cholestasis
+10,cough  fatigue  chills  continuous sneezing,Common Cold
+11,skin rash  vomiting  joint pain  chills,Dengue
+12,weight loss  fatigue  lethargy  restlessness,Diabetes 
+13,pain in anal region  pain during bowel movements  constipation  bloody stool,Dimorphic hemmorhoids(piles)
+14,itching  stomach pain  skin rash  burning micturition,Drug Reaction
+15,itching  nodal skin eruptions  skin rash  dischromic  patches,Fungal infection
+16,vomiting  ulcers on tongue  stomach pain  acidity,GERD
+17,diarrhoea  vomiting  dehydration  sunken eyes,Gastroenteritis
+18,sweating  chest pain  breathlessness  vomiting,Heart attack
+19,itching  yellowish skin  fatigue  lethargy,Hepatitis B
+20,yellowish skin  fatigue  nausea  loss of appetite,Hepatitis C
+21,yellowish skin  vomiting  joint pain  fatigue,Hepatitis D
+22,high fever  vomiting  joint pain  fatigue,Hepatitis E
+23,chest pain  loss of balance  dizziness  headache,Hypertension 
+24,weight loss  fatigue  restlessness  mood swings,Hyperthyroidism
+25,sweating  vomiting  fatigue  anxiety,Hypoglycemia
+26,weight gain  fatigue  cold hands and feets  mood swings,Hypothyroidism
+27,red sore around nose  high fever  blister  skin rash,Impetigo
+28,itching  weight loss  vomiting  fatigue,Jaundice
+29,sweating  high fever  vomiting  chills,Malaria
+30,indigestion  headache  blurred and distorted vision  acidity,Migraine
+31,neck pain  joint pain  hip joint pain  knee pain,Osteoarthristis
+32,weakness of one body side  vomiting  altered sensorium  headache,Paralysis (brain hemorrhage)
+33,indigestion  abdominal pain  vomiting  loss of appetite,Peptic ulcer diseae
+34,cough  fatigue  high fever  chills,Pneumonia
+35,silver like dusting  joint pain  skin peeling  skin rash,Psoriasis
+36,weight loss  vomiting  fatigue  chills,Tuberculosis
+37,high fever  vomiting  fatigue  chills,Typhoid
+38,bladder discomfort  continuous feel of urine  foul smell of urine  burning micturition,Urinary tract infection
+39,obesity  fatigue  bruising  cramps,Varicose veins
+40,dark urine  yellowish skin  vomiting  joint pain,hepatitis A
